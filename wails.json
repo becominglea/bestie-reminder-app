@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "bestie-reminder-app",
+  "outputfilename": "bestie-reminder-app",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Becoming Léa",
+    "email": "46668755+leabuende@users.noreply.github.com"
+  }
+}
