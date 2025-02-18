@@ -1,4 +1,4 @@
-# Bestie Reminder App 🚀💖
+# Bestie Reminder App
 
 **Bestie Reminder App** est une application de rappels pour t’aider à prendre soin de toi au quotidien ! 💊🌿
 
